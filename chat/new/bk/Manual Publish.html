@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+	"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<title>Widget Sample - Manual Publish</title>
+	<script src="http://staging.tokbox.com/v0.91/js/TB.min.js"></script>
+	<script src='../_OT.js'></script>
+</head>
+
+<body>
+
+	<div id='widgetContainer' style='background: #222'></div>
+	
+	<script type='text/javascript'>
+	
+		// Set OpenTok variables
+		var session = TB.initSession('1_MX40NTY0NzAwMn5-MTQ3MjcxODA3MTI1MH5tUXNENXo2Q0haYnJZc0puamJrS1plejZ-fg');
+		var api_key = '45647002';
+		var token = 'T1==cGFydG5lcl9pZD00NTY0NzAwMiZzaWc9ZDU3NTEzMWMyNWU5Y2U1OGI3N2JlNmQ1ZWMzOTQzMzMwMDIzOTIwMjpzZXNzaW9uX2lkPTFfTVg0ME5UWTBOekF3TW41LU1UUTNNamN4T0RBM01USTFNSDV0VVhORU5YbzJRMGhhWW5KWmMwcHVhbUpyUzFwbGVqWi1mZyZjcmVhdGVfdGltZT0xNDcyNzE4MTA0Jm5vbmNlPTAuNjc0NTU4NTQ2NjI2OTQwNCZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNDc1MzEwMTAw';
+		
+		var widget = _OT.widget;
+		
+		// Initialize the widget
+		widget.init(session, 'widgetContainer', { autoPublish: false });
+		
+		// Connect to the session
+		session.connect(api_key, token);
+		
+		// In the widget.init() call we said not to autoPublish, so instead
+		// we call widget.publish() and pass it properties
+		setTimeout(function() {
+			widget.publish({ publisherSize: 'large', name: "OpenTok User 123" });
+		}, 8000);
+		
+	</script>
+
+
+</body>
+</html>
