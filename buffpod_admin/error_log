@@ -1,0 +1,21 @@
+[03-Oct-2016 06:54:30 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/helpers/common_helper.php on line 17
+[03-Oct-2016 06:56:21 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/helpers/common_helper.php on line 9
+[03-Oct-2016 06:58:26 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/helpers/common_helper.php on line 9
+[03-Oct-2016 07:01:22 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/helpers/common_helper.php on line 9
+[03-Oct-2016 07:02:20 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/controllers/Admin.php on line 139
+[03-Oct-2016 07:05:06 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/controllers/Admin.php on line 146
+[03-Oct-2016 07:23:39 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/helpers/common_helper.php on line 9
+[03-Oct-2016 07:24:38 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/helpers/common_helper.php on line 9
+[03-Oct-2016 07:24:44 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/helpers/common_helper.php on line 9
+[03-Oct-2016 07:37:37 America/Chicago] PHP Fatal error:  Call to undefined function check_login() in /home/buffpodc/public_html/buffpod_admin/application/controllers/Home.php on line 25
+[03-Oct-2016 07:40:16 America/Chicago] PHP Fatal error:  Call to undefined function check_login() in /home/buffpodc/public_html/buffpod_admin/application/controllers/Home.php on line 25
+[10-Oct-2016 02:40:06 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/controllers/Admin.php on line 139
+[10-Oct-2016 02:41:49 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/helpers/common_helper.php on line 17
+[10-Oct-2016 02:42:41 America/Chicago] PHP Fatal error:  Call to undefined function check_login() in /home/buffpodc/public_html/buffpod_admin/application/controllers/Home.php on line 25
+[10-Oct-2016 02:47:57 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/views/pages/manage_charity.php on line 16
+[13-Oct-2016 00:22:03 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/buffpodc/public_html/buffpod_admin/application/views/pages/view_sub_charity.php on line 16
+[20-Oct-2016 03:19:57 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::insert_rec_without_autoincrment() in /home/buffpodc/public_html/buffpod_admin/application/models/Db_model.php on line 32
+[03-Nov-2016 05:53:48 America/Chicago] PHP Fatal error:  Call to a member function countusers() on a non-object in /home/buffpodc/public_html/buffpod_admin/application/views/pages/home.php on line 157
+[03-Nov-2016 05:54:23 America/Chicago] PHP Fatal error:  Call to a member function countusers() on a non-object in /home/buffpodc/public_html/buffpod_admin/application/views/pages/home.php on line 157
+[03-Nov-2016 05:54:37 America/Chicago] PHP Fatal error:  Call to a member function countusers() on a non-object in /home/buffpodc/public_html/buffpod_admin/application/views/pages/home.php on line 157
+[07-Nov-2016 02:11:10 America/Chicago] PHP Fatal error:  Function name must be a string in /home/buffpodc/public_html/buffpod_admin/application/controllers/Home.php on line 45
