@@ -1,0 +1,9 @@
+Nov 15 2016 10:05:38
+{"Number":2,"Message":"stream_socket_client(): SSL: crypto enabling timeout","File":"\/home\/buffpodc\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/http\/class-ai1wm-http-stream.php","Line":73}
+
+Nov 15 2016 10:05:38
+{"Number":2,"Message":"stream_socket_client(): Failed to enable crypto","File":"\/home\/buffpodc\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/http\/class-ai1wm-http-stream.php","Line":73}
+
+Nov 15 2016 10:05:38
+{"Number":2,"Message":"stream_socket_client(): unable to connect to ssl:\/\/buffpod.com:443 (Unknown error)","File":"\/home\/buffpodc\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/http\/class-ai1wm-http-stream.php","Line":73}
+

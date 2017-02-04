@@ -1,0 +1,62 @@
+/* This stylesheet is used to style the public view of the plugin. */
+#thsp-sticky-header {
+	margin-top: -200px;
+	padding: 10px 15px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border-bottom:5px solid #fdc671;
+}
+.admin-bar #thsp-sticky-header {
+	top: 32px;
+}
+#thsp-sticky-header:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+#thsp-sticky-header-title {
+	float: left;
+	font-size: 22px;
+	line-height: 80px;
+	margin: 0 !important;
+}
+#thsp-sticky-header-title img {
+	display: block;
+	height: 80px;
+	width: auto;
+	padding-left:80px;
+}
+#thsp-sticky-header-menu {
+	float: right;
+	text-align: right;
+	margin: 0 !important;
+	padding-right:80px;
+}
+#thsp-sticky-header-menu li {
+	display: inline-block;
+	margin: 0 0 0 1.25em !important;
+	font-size: 14px;
+}
+#thsp-sticky-header a {
+	text-decoration: none;
+	
+}
+#thsp-sticky-header li a {
+	display: inline-block;
+	line-height: 80px;
+}
+@media screen and (min-width: 320px) {
+#thsp-sticky-header {
+display: none;
+}
+}
+@media screen and (min-width: 480px) {
+#thsp-sticky-header {
+display: none;
+}
+}
