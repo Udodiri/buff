@@ -1,0 +1,6 @@
+[12-Jul-2016 11:21:43 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'Stripe/lib/Stripe.php' (include_path='.:/usr/local/php56/pear') in /home/collec82/public_html/lpb/newhtml/strip/payment.php on line 3
+[12-Jul-2016 11:23:45 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'Stripe/lib/Stripe.php' (include_path='.:/usr/local/php56/pear') in /home/collec82/public_html/lpb/newhtml/strip/payment.php on line 3
+[12-Jul-2016 11:23:49 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'Stripe/lib/Stripe.php' (include_path='.:/usr/local/php56/pear') in /home/collec82/public_html/lpb/newhtml/strip/payment.php on line 3
+[12-Jul-2016 11:24:34 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'Stripe/lib/Stripe.php' (include_path='.:/usr/local/php56/pear') in /home/collec82/public_html/lpb/newhtml/strip/payment.php on line 3
+[12-Jul-2016 11:24:37 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'Stripe/lib/Stripe.php' (include_path='.:/usr/local/php56/pear') in /home/collec82/public_html/lpb/newhtml/strip/payment.php on line 3
+[12-Jul-2016 14:11:29 CST6CDT] PHP Fatal error:  Class 'Stripe' not found in /home/collec82/public_html/lpb/newhtml/strip/payment.php on line 4

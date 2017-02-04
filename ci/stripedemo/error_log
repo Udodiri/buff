@@ -1,0 +1,9 @@
+[12-Oct-2016 04:28:06 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/buffpodc/public_html/ci/stripedemo/application/controllers/Stripe_payment.php on line 46
+[18-Oct-2016 07:08:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''destination'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/buffpodc/public_html/ci/stripedemo/application/controllers/Stripe_payment.php on line 45
+[18-Oct-2016 08:34:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/buffpodc/public_html/ci/stripedemo/application/controllers/Stripe_payment.php on line 47
+[18-Oct-2016 10:11:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/buffpodc/public_html/ci/stripedemo/application/controllers/Stripe_payment.php on line 49
+[19-Oct-2016 02:08:54 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/buffpodc/public_html/ci/stripedemo/application/controllers/Stripe_payment.php on line 48
+[19-Oct-2016 02:09:34 America/Chicago] Stripe Notice: Undefined property of Stripe_Account instance: Stripe_Account
+[19-Oct-2016 02:12:03 America/Chicago] Stripe Notice: Undefined property of Stripe_Account instance: Stripe_Account
+[19-Oct-2016 02:29:25 America/Chicago] PHP Parse error:  syntax error, unexpected ''destination'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/buffpodc/public_html/ci/stripedemo/application/controllers/Stripe_payment.php on line 71
+[02-Nov-2016 08:06:08 America/Chicago] PHP Parse error:  syntax error, unexpected '"destination"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/buffpodc/public_html/ci/stripedemo/application/controllers/Stripe_payment.php on line 79

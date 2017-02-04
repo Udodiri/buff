@@ -1,0 +1,44 @@
+[19-Oct-2016 01:25:38 America/Chicago] PHP Fatal error:  Class 'ApiResource' not found in /home/buffpodc/public_html/ci/stripecore/vendor/stripe/stripe-php/lib/Charge.php on line 42
+[19-Oct-2016 01:27:26 America/Chicago] PHP Fatal error:  Class 'ApiResource' not found in /home/buffpodc/public_html/ci/stripecore/vendor/stripe/stripe-php/lib/Charge.php on line 42
+[19-Oct-2016 01:32:08 America/Chicago] PHP Fatal error:  Class 'ApiResource' not found in /home/buffpodc/public_html/ci/stripecore/vendor/stripe/stripe-php/lib/Charge.php on line 42
+[19-Oct-2016 01:32:19 America/Chicago] PHP Fatal error:  Class 'ApiResource' not found in /home/buffpodc/public_html/ci/stripecore/vendor/stripe/stripe-php/lib/Charge.php on line 42
+[19-Oct-2016 01:43:15 America/Chicago] PHP Fatal error:  Class 'ApiResource' not found in /home/buffpodc/public_html/ci/stripecore/vendor/stripe/stripe-php/lib/Charge.php on line 42
+[19-Oct-2016 01:45:17 America/Chicago] PHP Fatal error:  Class 'Charge' not found in /home/buffpodc/public_html/ci/stripecore/payment.php on line 21
+[25-Oct-2016 07:23:02 America/Chicago] PHP Fatal error:  Class 'Charge' not found in /home/buffpodc/public_html/ci/stripecore/payment.php on line 21
+[25-Oct-2016 07:25:24 America/Chicago] PHP Fatal error:  Class 'Charge' not found in /home/buffpodc/public_html/ci/stripecore/payment.php on line 21
+[25-Oct-2016 07:31:06 America/Chicago] PHP Fatal error:  Class 'Charge' not found in /home/buffpodc/public_html/ci/stripecore/payment.php on line 21
+[25-Oct-2016 07:42:12 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 07:42:12 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 07:42:12 America/Chicago] PHP Warning:  include(): Failed opening './Stripe/lib/Charge.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 07:42:15 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 07:42:15 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 07:42:15 America/Chicago] PHP Warning:  include(): Failed opening './Stripe/lib/Charge.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 07:42:55 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 07:42:55 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 07:42:55 America/Chicago] PHP Warning:  include(): Failed opening './Stripe/lib/Charge.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 08:10:47 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 08:10:47 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 08:10:47 America/Chicago] PHP Warning:  include(): Failed opening './Stripe/lib/Charge.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 09:28:53 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 09:28:53 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 09:28:53 America/Chicago] PHP Warning:  include(): Failed opening './Stripe/lib/Charge.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 09:28:53 America/Chicago] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/buffpodc/public_html/ci/stripecore/payment.php on line 13
+[25-Oct-2016 09:37:01 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 09:37:01 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 09:37:01 America/Chicago] PHP Warning:  include(): Failed opening './Stripe/lib/Charge.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 09:37:01 America/Chicago] PHP Fatal error:  Class 'Token' not found in /home/buffpodc/public_html/ci/stripecore/payment.php on line 14
+[25-Oct-2016 09:39:58 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 6
+[25-Oct-2016 09:39:58 America/Chicago] PHP Warning:  include(./Stripe/lib/Charge.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 6
+[25-Oct-2016 09:39:58 America/Chicago] PHP Warning:  include(): Failed opening './Stripe/lib/Charge.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buffpodc/public_html/ci/stripecore/payment.php on line 6
+[25-Oct-2016 09:39:58 America/Chicago] PHP Fatal error:  Class 'Token' not found in /home/buffpodc/public_html/ci/stripecore/payment.php on line 10
+[25-Oct-2016 09:44:24 America/Chicago] PHP Warning:  include(./Stripe/lib/autoload.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 5
+[25-Oct-2016 09:44:24 America/Chicago] PHP Warning:  include(./Stripe/lib/autoload.php): failed to open stream: No such file or directory in /home/buffpodc/public_html/ci/stripecore/payment.php on line 5
+[25-Oct-2016 09:44:24 America/Chicago] PHP Warning:  include(): Failed opening './Stripe/lib/autoload.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buffpodc/public_html/ci/stripecore/payment.php on line 5
+[25-Oct-2016 09:44:24 America/Chicago] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 09:47:52 America/Chicago] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/buffpodc/public_html/ci/stripecore/payment.php on line 7
+[25-Oct-2016 09:48:18 America/Chicago] PHP Fatal error:  Class 'Stripe\Token' not found in /home/buffpodc/public_html/ci/stripecore/payment.php on line 9
+[25-Oct-2016 09:48:33 America/Chicago] PHP Fatal error:  Class 'Token' not found in /home/buffpodc/public_html/ci/stripecore/payment.php on line 9
+[25-Oct-2016 09:51:17 America/Chicago] PHP Fatal error:  Cannot redeclare class Stripe_Token in /home/buffpodc/public_html/ci/stripecore/Stripe/lib/Stripe/Token.php on line 55
+[25-Oct-2016 09:52:34 America/Chicago] PHP Fatal error:  Class 'Token' not found in /home/buffpodc/public_html/ci/stripecore/payment.php on line 10
+[25-Oct-2016 09:53:02 America/Chicago] PHP Notice:  Undefined variable: charge in /home/buffpodc/public_html/ci/stripecore/payment.php on line 33
+[25-Oct-2016 09:53:50 America/Chicago] PHP Notice:  Undefined variable: charge in /home/buffpodc/public_html/ci/stripecore/payment.php on line 33

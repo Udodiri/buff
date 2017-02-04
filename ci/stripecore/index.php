@@ -1,0 +1,1 @@
+<form action="payment.php" method="POST">    <input type="text" name="amounts" value="1000">     <input type="submit" name="sub"  value="sub_val" ></form>  
